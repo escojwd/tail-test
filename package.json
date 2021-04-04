@@ -1,0 +1,23 @@
+{
+  "name": "tail-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o dist/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escojwd/tail-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escojwd/tail-test/issues"
+  },
+  "homepage": "https://github.com/escojwd/tail-test#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.4"
+  }
+}
